@@ -3,8 +3,8 @@
 ## I'm a Hobbyist Developer
 
 - I'm currently learning Computer Networking.
-- I always prefer to work in a team rather than on my own.
 - The bigger the project, the better, even if it doesn't quite suit my taste.
+- I always prefer to work in a team rather than on my own.
 - Linux vs Windows? Both, Cross-platform FTW!
 
 ### Main Languages
