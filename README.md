@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello Smart People, I'm Chris!
 
-<!--
-**christopher-besch/christopher-besch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Hobbyist Developer
 
-Here are some ideas to get you started:
+- I'm currently learning Computer Networking.
+- I always prefer to work in a team rather than on my own.
+- The bigger the project, the better, even if it doesn't quite suit my taste.
+- Linux vs Windows? Both, Cross-platform FTW!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Languages
+- <img align="left" width="20px" src="images/c%2B%2B.png">C++
+- <img align="left" width="20px" src="images/python.png">Python
+- <img align="left" width="20px" src="images/java.jpg">Java
+- <img align="left" width="20px" src="images/js.png">JavaScript
+
+### Main Tools
+- <img align="left" width="20px" src="images/vsc.png">Visual Studio Code
+- <img align="left" width="20px" src="images/premake.png">Premake
+- <img align="left" width="20px" src="images/gnu.png">gcc/make
+- <img align="left" width="20px" src="images/vs.png">Visual Studio
+- <img align="left" width="20px" src="images/git.png">git (duh)
+- <img align="left" width="20px" src="images/latex.jpg">Latex
