@@ -1,6 +1,6 @@
 ### Hello Smart People, I'm Chris!
 
-## I'm a Hobbyist Developer
+## I'm a Hobbyist Software Developer
 
 - I'm currently learning [Computer Networking](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html) and [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 - The bigger the project, the better, even if it doesn't quite suit my taste.
