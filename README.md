@@ -21,3 +21,4 @@
 - <img align="left" width="20px" src="images/vs.png">Visual Studio
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">Latex
+- <img align="left" width="20px" src="images/opengl.png">OpenGL
