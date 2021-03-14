@@ -17,8 +17,6 @@
 - <img align="left" width="20px" src="images/vsc.png">Visual Studio Code
 - <img align="left" width="20px" src="images/premake.png">Premake
 - <img align="left" width="20px" src="images/gnu.png">gcc/make
-- <img align="left" width="20px" src="images/pycharm.png">PyCharm
-- <img align="left" width="20px" src="images/vs.png">Visual Studio
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">Latex
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
