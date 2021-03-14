@@ -10,8 +10,8 @@
 ### Main Languages
 - <img align="left" width="20px" src="images/c%2B%2B.png">C++
 - <img align="left" width="20px" src="images/python.png">Python
+- <img align="left" width="20px" src="images/ts.png">TypeScript
 - <img align="left" width="20px" src="images/java.jpg">Java
-- <img align="left" width="20px" src="images/js.png">JavaScript
 
 ### Main Tools
 - <img align="left" width="20px" src="images/vsc.png">Visual Studio Code
