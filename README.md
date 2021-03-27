@@ -22,7 +22,3 @@
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">Latex
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
-
-### Typing Speed
-
-<a href="http://keyhero.com/profile/stromel/?ba" title="stromel's typing test profile"><img src="https://www.keyhero.com/static//badges/1387/typing-test-416183.png" alt="stromel's typing test WPM" style="vertical-align:middle"></a>
