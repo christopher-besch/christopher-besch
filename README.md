@@ -21,3 +21,5 @@
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">Latex
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
+- <img align="left" width="20px" src="images/gephi.jpg">Gephi
+
