@@ -17,6 +17,7 @@
 
 ### Main Tools
 
+- <img align="left" width="20px" src="images/vim.jpg">Vim
 - <img align="left" width="20px" src="images/bash.png">Bash
 - <img align="left" width="20px" src="images/vsc.png">Visual Studio Code
 - <img align="left" width="20px" src="images/premake.png">Premake
@@ -25,3 +26,4 @@
 - <img align="left" width="20px" src="images/latex.jpg">Latex
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
+
