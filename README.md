@@ -57,12 +57,12 @@
 
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
+- [Who am I](https://github.com/christopher-besch/who_am_i)
 
 ### Web (Python, TypeScript, HTML, CSS)
 
 - [Project Omega](https://github.com/christopher-besch/project_omega)
 - [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
-- [Who am I](https://github.com/christopher-besch/who_am_i)
 
 ### Bash
 
