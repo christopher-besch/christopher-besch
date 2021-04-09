@@ -41,7 +41,6 @@
 ### Python
 
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
-- [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
@@ -62,6 +61,7 @@
 ### Web (Python, TypeScript, HTML, CSS)
 
 - [Project Omega](https://github.com/christopher-besch/project_omega)
+- [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
 
 ### Bash
