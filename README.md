@@ -7,7 +7,7 @@
 - I always prefer to work in a team rather than on my own.
 - I consider life to start at the age of sixteen; did I even exist before?
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be hated or laughed at; they have enough problems with their operating system already😉
-- I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind. Except for Java I won't work for free; you'd have to pay me really really well to make me write Java.
+- I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind. Except for Java I'll work for free; you'd have to pay me really really well to make me write Java.
 
 ### Main Languages
 
