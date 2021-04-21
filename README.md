@@ -34,6 +34,7 @@
 
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - [OpenGL Reference](https://github.com/christopher-besch/opengl_reference)
+- [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
 - [Lynton Game Engine](https://github.com/christopher-besch/lynton)
@@ -55,11 +56,12 @@
 
 ### TypeScript/JavaScript
 
+- [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
 
-### Web (Python, TypeScript, HTML, CSS)
+### Flask (Python, TypeScript, HTML, CSS)
 
 - [Project Omega](https://github.com/christopher-besch/project_omega)
 - [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
