@@ -59,8 +59,8 @@
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
-- [Physics Words](https://github.com/christopher-besch/physics_words)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
+- [Physics Words](https://github.com/christopher-besch/physics_words)
 
 ### Flask (Python, TypeScript, HTML, CSS)
 
