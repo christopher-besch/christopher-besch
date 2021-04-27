@@ -76,6 +76,10 @@
 - [LaTex Reference](https://github.com/christopher-besch/latex_reference)
 - [Bibliography](https://github.com/christopher-besch/bibliography)
 
+### Blender
+
+- [Models](https://github.com/christopher-besch/blender_models)
+
 ### Java
 
 - [Encrpytion](https://github.com/christopher-besch/java_encryption)
