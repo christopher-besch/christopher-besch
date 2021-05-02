@@ -43,7 +43,6 @@
 
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
-- [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
 - [39th BWINF Round 1](https://github.com/christopher-besch/bwinf_39_round1)
 - [37th BWINF Round 1](https://github.com/christopher-besch/bwinf_37_round1)
@@ -65,6 +64,7 @@
 ### Flask (Python, TypeScript, HTML, CSS)
 
 - [Project Omega](https://github.com/christopher-besch/project_omega)
+- [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
 - [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
 
 ### Bash
