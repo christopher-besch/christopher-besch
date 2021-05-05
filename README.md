@@ -82,7 +82,7 @@
 
 ### Java
 
-- [Encrpytion](https://github.com/christopher-besch/java_encryption)
+- [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
 
 ## [Gists](https://gist.github.com/christopher-besch)
