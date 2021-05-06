@@ -55,6 +55,7 @@
 
 ### TypeScript/JavaScript
 
+- [Project Mike November](https://github.com/christopher-besch/project_mike_november/tree/master)
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
