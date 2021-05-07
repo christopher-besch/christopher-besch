@@ -37,7 +37,15 @@
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
-- [Lynton Game Engine](https://github.com/christopher-besch/lynton)
+- [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
+
+### TypeScript/JavaScript
+
+- [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
+- [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
+- [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
+- [Who am I](https://github.com/christopher-besch/who_am_i)
+- [Physics Words](https://github.com/christopher-besch/physics_words)
 
 ### Python
 
@@ -52,15 +60,6 @@
 - [Little Circles](https://github.com/christopher-besch/little_circles)
 - [Brute Force Multiple Choice](https://github.com/christopher-besch/brute_force_multiple_choice_tasks)
 - [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
-
-### TypeScript/JavaScript
-
-- [Project Mike November](https://github.com/christopher-besch/project_mike_november/tree/master)
-- [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
-- [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
-- [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
-- [Who am I](https://github.com/christopher-besch/who_am_i)
-- [Physics Words](https://github.com/christopher-besch/physics_words)
 
 ### Flask (Python, TypeScript, HTML, CSS)
 
