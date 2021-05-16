@@ -18,7 +18,7 @@
 
 ### Main Tools
 
-- <img align="left" width="20px" src="images/vim.jpg">Vim
+- <img align="left" width="20px" src="images/neovim.jpg">Neovim
 - <img align="left" width="20px" src="images/bash.png">Bash
 - <img align="left" width="20px" src="images/vsc.png">Visual Studio Code
 - <img align="left" width="20px" src="images/premake.png">Premake
@@ -80,6 +80,10 @@
 ### Blender
 
 - [Models](https://github.com/christopher-besch/blender_models)
+
+### Configs
+
+- [Neovim](https://github.com/christopher-besch/nvim_like_me)
 
 ### Java
 
