@@ -2,12 +2,15 @@
 
 ## I'm a Hobbyist Software Developer
 
-- I love creating things, building websites, horribly over-engineering everything that isn't too serious and making the world a better place; and people! People are great!
+- I consider myself a problem solver.
+  Working on problems we set ourself for fun is really enjoyable.
+  But solving problems of real people and making their lives a little better is the biggest motivator I could imagine.
 - The bigger the project, the better, even if it doesn't quite suit my taste.
 - I always prefer to work in a team rather than on my own.
-- I consider life to start at the age of sixteen; did I even exist before?
-- Linux vs Windows? Linux For The Win! But Windows users shouldn't be hated or laughed at; they have enough problems with their operating system already😉
-- I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind. Except for Java I'll work for free; you'd have to pay me really really well to make me endure writing Java.
+  Cuz I like people—people are great!
+- Linux vs Windows? Linux For The Win! But Windows users shouldn't be hated or laughed at; they have enough problems already😉
+- I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind.
+  Except for Java I'll work for free; you'd have to pay me really really really well to make me endure writing Java.
 
 ### Main Languages
 
@@ -26,10 +29,13 @@
 - <img align="left" width="20px" src="images/blender.png">Blender
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">Latex
+- <img align="left" width="20px" src="images/flask.png">Flask
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
 
-## [Repositories](https://github.com/christopher-besch?tab=repositories)
+### [Repositories](https://github.com/christopher-besch?tab=repositories)
+
+### [Gists](https://gist.github.com/christopher-besch)
 
 ### C++
 
@@ -61,6 +67,7 @@
 - [Little Circles](https://github.com/christopher-besch/little_circles)
 - [Brute Force Multiple Choice](https://github.com/christopher-besch/brute_force_multiple_choice_tasks)
 - [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
+- [Get Longest Videos from YouTube Playlist](https://gist.github.com/christopher-besch/5b5e3af95ea89b2c787502eae19ca1fb)
 
 ### Flask (Python, TypeScript, HTML, CSS)
 
@@ -84,12 +91,9 @@
 ### Configs
 
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
+- [Global Gitignore](https://gist.github.com/christopher-besch/797dd8d8d8accd581168364c5c82b858)
 
 ### Java
 
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
-
-## [Gists](https://gist.github.com/christopher-besch)
-
-- [Get Longest Videos from YouTube Playlist](https://gist.github.com/christopher-besch/5b5e3af95ea89b2c787502eae19ca1fb)
