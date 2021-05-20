@@ -47,7 +47,7 @@
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
 - [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
-### TypeScript/JavaScript
+### TypeScript
 
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
