@@ -41,6 +41,7 @@
 
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - [OpenGL Reference](https://github.com/christopher-besch/opengl_reference)
+- [C++ Utils](https://github.com/christopher-besch/cpp_utils)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
