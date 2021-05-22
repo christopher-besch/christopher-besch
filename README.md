@@ -12,13 +12,21 @@
 - I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind.
   Except for Java I'll work for free; you'd have to pay me really really really well to make me endure writing Java.
 
-### Main Languages
+## Main Languages
+
+<details>
+<summary>Click to expand.</summary>
 
 - <img align="left" width="20px" src="images/c%2B%2B.png">C++
 - <img align="left" width="20px" src="images/ts.png">TypeScript
 - <img align="left" width="20px" src="images/python.png">Python
 
+</details>
+
 ### Main Tools
+
+<details>
+<summary>Click to expand.</summary>
 
 - <img align="left" width="20px" src="images/neovim.png">Neovim
 - <img align="left" width="20px" src="images/bash.png">Bash
@@ -32,9 +40,12 @@
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
 - <img align="left" width="20px" src="images/flask.png">Flask
 
-### [Repositories](https://github.com/christopher-besch?tab=repositories)
+</details>
 
-### [Gists](https://gist.github.com/christopher-besch)
+## Projects
+
+<details>
+<summary>Click to expand.</summary>
 
 ### C++
 
@@ -97,3 +108,5 @@
 
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
+
+</details>
