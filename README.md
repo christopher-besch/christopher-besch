@@ -106,7 +106,7 @@
 ### Configs
 
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
-- [Global Gitignore](https://gist.github.com/christopher-besch/797dd8d8d8accd581168364c5c82b858)
+- [Miscellaneous Configs](https://github.com/christopher-besch/miscellaneous_configs)
 
 ### Java
 
