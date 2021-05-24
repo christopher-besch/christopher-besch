@@ -53,7 +53,7 @@
 
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - [OpenGL Reference](https://github.com/christopher-besch/opengl_reference)
-- `~`[Neural Network](https://github.com/christopher-besch/neural_network)([Markus's Sister Project](https://github.com/MarcasRealAccount/NeuralNetwork))
+- `~`[Neural Network](https://github.com/christopher-besch/neural_network) ([Markus's Sister Project](https://github.com/MarcasRealAccount/NeuralNetwork))
 - [C++ Utils](https://github.com/christopher-besch/cpp_utils)
 - `~`[Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
