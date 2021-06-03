@@ -99,6 +99,10 @@
 - [LaTex Reference](https://github.com/christopher-besch/latex_reference)
 - [Bibliography](https://github.com/christopher-besch/bibliography)
 
+### Assembly
+
+- [Assembly Reference](https://github.com/christopher-besch/assembly_reference)
+
 ### Blender
 
 - [Models](https://github.com/christopher-besch/blender_models)
