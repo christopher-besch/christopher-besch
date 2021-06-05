@@ -49,7 +49,8 @@
 
 `~` -> work in progress
 
-### C++
+<details>
+<summary>C++</summary>
 
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - [OpenGL Reference](https://github.com/christopher-besch/opengl_reference)
@@ -61,7 +62,10 @@
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
 - [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
-### TypeScript
+</details>
+
+<details>
+<summary>TypeScript</summary>
 
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
@@ -69,7 +73,10 @@
 - [Who am I](https://github.com/christopher-besch/who_am_i)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
 
-### Python
+</details>
+
+<details>
+<summary>Python</summary>
 
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
@@ -84,37 +91,60 @@
 - [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
 - [Get Longest Videos from YouTube Playlist](https://gist.github.com/christopher-besch/5b5e3af95ea89b2c787502eae19ca1fb)
 
-### Flask (Python, TypeScript, HTML, CSS)
+</details>
+
+<details>
+<summary>Flask (Python, TypeScript, HTML, CSS)</summary>
 
 - [Project Omega](https://github.com/christopher-besch/project_omega)
 - [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
 - [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
 
-### Bash
+</details>
+
+<details>
+<summary>Bash</summary>
 
 - [Bash Reference](https://github.com/christopher-besch/bash_reference)
 
-### LaTex
+</details>
+
+<details>
+<summary>LaTex</summary>
 
 - [LaTex Reference](https://github.com/christopher-besch/latex_reference)
 - [Bibliography](https://github.com/christopher-besch/bibliography)
 
-### Assembly
+</details>
+
+<details>
+<summary>Assembly</summary>
 
 - [Assembly Reference](https://github.com/christopher-besch/assembly_reference)
 
-### Blender
+</details>
+
+<details>
+<summary>Blender</summary>
 
 - [Models](https://github.com/christopher-besch/blender_models)
 
-### Configs
+</details>
+
+<details>
+<summary>Configs</summary>
 
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Miscellaneous Configs](https://github.com/christopher-besch/miscellaneous_configs)
 
-### Java
+</details>
+
+<details>
+<summary>Java</summary>
 
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
+
+</details>
 
 </details>
