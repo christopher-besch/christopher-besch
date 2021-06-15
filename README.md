@@ -48,6 +48,7 @@
 <summary>Click to expand.</summary>
 
 `~` -> work in progress
+
 `*` -> unusable state
 
 <details>
