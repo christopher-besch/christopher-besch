@@ -48,19 +48,21 @@
 <summary>Click to expand.</summary>
 
 `~` -> work in progress
+`*` -> unusable state
 
 <details>
 <summary>C++</summary>
 
-- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
-- [OpenGL Reference](https://github.com/christopher-besch/opengl_reference)
 - `~` [Neural Network](https://github.com/christopher-besch/neural_network) ([Markus' Sister Project](https://github.com/MarcasRealAccount/NeuralNetwork))
+- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
+- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
+- `~` [SDL2 Reference](https://github.com/christopher-besch/sdl2_reference)
 - [C++ Utils](https://github.com/christopher-besch/cpp_utils)
-- `~` [Lynton](https://github.com/christopher-besch/lynton)
+- `*` [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
-- [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
+- `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 </details>
 
@@ -88,7 +90,7 @@
 - [Towers of Hanoi](https://github.com/christopher-besch/towers_of_hanoi)
 - [Little Circles](https://github.com/christopher-besch/little_circles)
 - [Brute Force Multiple Choice](https://github.com/christopher-besch/brute_force_multiple_choice_tasks)
-- [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
+- `*` [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
 - [Get Longest Videos from YouTube Playlist](https://gist.github.com/christopher-besch/5b5e3af95ea89b2c787502eae19ca1fb)
 
 </details>
