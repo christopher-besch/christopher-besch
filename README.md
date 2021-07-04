@@ -55,7 +55,6 @@
 
 - `~` [Neural Network](https://github.com/christopher-besch/neural_network) ([Markus' Sister Project](https://github.com/MarcasRealAccount/NeuralNetwork))
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
-- `*` [SDL2 Reference](https://github.com/christopher-besch/sdl2_reference)
 - [C++ Utils](https://github.com/christopher-besch/cpp_utils)
 - `~` [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
