@@ -53,7 +53,7 @@
 <details>
 <summary>C++</summary>
 
-- `~` [Neural Network](https://github.com/christopher-besch/neural_network) ([Markus' Sister Project](https://github.com/MarcasRealAccount/NeuralNetwork))
+- `~` [Neural Network](https://github.com/christopher-besch/neural_network)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - [C++ Utils](https://github.com/christopher-besch/cpp_utils)
 - `~` [Lynton](https://github.com/christopher-besch/lynton)
