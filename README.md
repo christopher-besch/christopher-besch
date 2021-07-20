@@ -53,7 +53,7 @@
 <details>
 <summary>C++</summary>
 
-- `~` [Neural Network](https://github.com/christopher-besch/neural_network)
+- [Neural Network](https://github.com/christopher-besch/neural_network)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - `~` [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
@@ -133,7 +133,7 @@
 <details>
 <summary>Configs</summary>
 
-- [ToddLinux](https://github.com/adamjedrzejewski/ToddLinux)
+- `~` [ToddLinux](https://github.com/adamjedrzejewski/ToddLinux)
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Miscellaneous Configs](https://github.com/christopher-besch/miscellaneous_configs)
 
