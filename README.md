@@ -35,6 +35,7 @@
 - <img align="left" width="20px" src="images/blender.png">Blender
 - <img align="left" width="20px" src="images/git.png">git (duh)
 - <img align="left" width="20px" src="images/latex.jpg">LaTex
+- <img align="left" width="20px" src="images/sdl.jpeg">SDL2
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
 - <img align="left" width="20px" src="images/flask.png">Flask
