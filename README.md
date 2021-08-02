@@ -40,8 +40,6 @@
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
 - <img align="left" width="20px" src="images/flask.png">Flask
 
-<a href="http://keyhero.com/profile/stromel/?ba" title="stromel's typing test profile"><img src="https://www.keyhero.com/static//badges/1387/typing-test-416183.png" alt="stromel's typing test WPM" style="vertical-align:middle"></a>
-
 </details>
 
 ## Projects
