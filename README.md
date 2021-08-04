@@ -55,7 +55,7 @@
 <summary>C++</summary>
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
-- [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
+- `~` [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - `~` [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
