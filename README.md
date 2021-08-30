@@ -84,6 +84,7 @@
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
 - [39th BWINF Round 1](https://github.com/christopher-besch/bwinf_39_round1)
 - [37th BWINF Round 1](https://github.com/christopher-besch/bwinf_37_round1)
+- [Lofi Girl Downloader](https://github.com/christopher-besch/lofi_girl_downloader)
 - [Anti Primes](https://github.com/christopher-besch/anti_primes)
 - [Zipf's Law](https://github.com/christopher-besch/zipfs_law)
 - [Towers of Hanoi](https://github.com/christopher-besch/towers_of_hanoi)
