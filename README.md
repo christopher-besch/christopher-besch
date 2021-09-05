@@ -56,6 +56,7 @@
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
+- [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
