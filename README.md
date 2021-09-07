@@ -55,12 +55,12 @@
 <summary>C++</summary>
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
-- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
-- [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - [Lynton](https://github.com/christopher-besch/lynton)
 - [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
+- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
+- [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 </details>
@@ -70,15 +70,16 @@
 
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
-- [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
+- [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
 </details>
 
 <details>
 <summary>Python</summary>
 
+- `~` [Manim Reference](https://github.com/christopher-besch/manim_reference)
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
@@ -87,17 +88,13 @@
 - [Lofi Girl Downloader](https://github.com/christopher-besch/lofi_girl_downloader)
 - [Anti Primes](https://github.com/christopher-besch/anti_primes)
 - [Zipf's Law](https://github.com/christopher-besch/zipfs_law)
-- [Towers of Hanoi](https://github.com/christopher-besch/towers_of_hanoi)
-- [Little Circles](https://github.com/christopher-besch/little_circles)
-- [Brute Force Multiple Choice](https://github.com/christopher-besch/brute_force_multiple_choice_tasks)
-- `*` [Cora Wrapper](https://github.com/christopher-besch/python_cora_wrapper)
-- [Get Longest Videos from YouTube Playlist](https://gist.github.com/christopher-besch/5b5e3af95ea89b2c787502eae19ca1fb)
 
 </details>
 
 <details>
 <summary>Flask (Python, TypeScript, HTML, CSS)</summary>
 
+- `~` [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
 - [Project Omega](https://github.com/christopher-besch/project_omega)
 - [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
 - [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
