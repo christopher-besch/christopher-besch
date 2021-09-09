@@ -4,8 +4,8 @@
 
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
-  But solving problems of real people and making their lives a little better is the biggest motivator I could imagine.
-- The bigger the project, the better, even if it doesn't quite suit my taste.
+  But solving problems of real people and making their lives a little better is the biggest motivator I can imagine.
+- The bigger the project, the better; even if it doesn't quite suit my taste.
 - I always prefer to work in a team rather than on my own.
   Cuz I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be hated or laughed at; they have enough problems already😉
@@ -86,8 +86,6 @@
 - [39th BWINF Round 1](https://github.com/christopher-besch/bwinf_39_round1)
 - [37th BWINF Round 1](https://github.com/christopher-besch/bwinf_37_round1)
 - [Lofi Girl Downloader](https://github.com/christopher-besch/lofi_girl_downloader)
-- [Anti Primes](https://github.com/christopher-besch/anti_primes)
-- [Zipf's Law](https://github.com/christopher-besch/zipfs_law)
 
 </details>
 
@@ -112,7 +110,6 @@
 <summary>LaTex</summary>
 
 - [LaTex Reference](https://github.com/christopher-besch/latex_reference)
-- [Bibliography](https://github.com/christopher-besch/bibliography)
 
 </details>
 
@@ -136,7 +133,7 @@
 - `~` [ToddLinux](https://github.com/adamjedrzejewski/ToddLinux)
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Kitty](https://github.com/christopher-besch/kitty_like_me)
-- [Miscellaneous Configs](https://github.com/christopher-besch/miscellaneous_configs)
+- [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
 
 </details>
 
