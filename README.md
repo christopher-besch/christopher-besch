@@ -107,9 +107,9 @@
 </details>
 
 <details>
-<summary>LaTex</summary>
+<summary>LaTeX</summary>
 
-- [LaTex Reference](https://github.com/christopher-besch/latex_reference)
+- [LaTeX Reference](https://github.com/christopher-besch/latex_reference)
 
 </details>
 
