@@ -8,7 +8,7 @@
 - The bigger the project, the better; even if it doesn't quite suit my taste.
 - I always prefer to work in a team rather than on my own.
   Cuz I like people—people are great!
-- Linux vs Windows? Linux For The Win! But Windows users shouldn't be hated or laughed at; they have enough problems already😉
+- Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
 - I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind.
   Except for Java I'll work for free; you'd have to pay me really really really well to make me endure writing Java.
 
