@@ -4,13 +4,12 @@
 
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
-  But solving problems of real people and making their lives a little better is the biggest motivator I can imagine.
+  But solving real people's problems and making their lives a little better is the biggest motivator I can imagine.
 - The bigger the project, the better; even if it doesn't quite suit my taste.
 - I always prefer to work in a team rather than on my own.
-  Cuz I like people—people are great!
+  I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
-- I'm always looking for cool open-source projects to participate in, so just hook me up if you have something in mind.
-  Except for Java I'll work for free; you'd have to pay me really really really well to make me endure writing Java.
+- I'm always looking for cool projects to participate in, so hook me up if you have something in mind.
 
 ## Main Languages
 
