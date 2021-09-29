@@ -132,6 +132,7 @@
 
 - `~` [ToddLinux](https://github.com/adamjedrzejewski/ToddLinux)
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
+- [LunarVim](https://github.com/christopher-besch/lvim_like_me)
 - [Kitty](https://github.com/christopher-besch/kitty_like_me)
 - [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
 
