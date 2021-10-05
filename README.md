@@ -147,3 +147,11 @@
 </details>
 
 </details>
+
+
+<details>
+<summary>Terminate Simulation</summary>
+
+![Purpose Fulfilled](purpose_fulfilled.gif)
+
+</details>
