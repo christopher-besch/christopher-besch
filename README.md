@@ -80,7 +80,9 @@
 <summary>Python</summary>
 
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
-- `~` [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
+- [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
+- `~` [Manim CE](https://github.com/ManimCommunity/manim)
+- `~` [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
