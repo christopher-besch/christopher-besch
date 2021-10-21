@@ -29,6 +29,7 @@
 
 - <img align="left" width="20px" src="images/neovim.png">Neovim
 - <img align="left" width="20px" src="images/bash.png">Bash
+- <img align="left" width="20px" src="images/cmake.png">CMake
 - <img align="left" width="20px" src="images/premake.png">Premake
 - <img align="left" width="20px" src="images/gnu.png">gcc/make/gdb/...
 - <img align="left" width="20px" src="images/manim.svg">Manim CE
