@@ -73,6 +73,7 @@
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
+- [Book Page Converter](https://github.com/christopher-besch/book_page_converter)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
