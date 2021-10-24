@@ -1,7 +1,5 @@
 ### Hello Smart People, I'm Chris!
 
-## I'm a Software Developer
-
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
   But solving real people's problems and making their lives a little better is the biggest motivator I can imagine.
