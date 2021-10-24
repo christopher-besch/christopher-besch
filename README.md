@@ -44,7 +44,7 @@
 
 </details>
 
-## Projects
+## Public Projects
 
 <details>
 <summary>Click to expand.</summary>
@@ -53,8 +53,7 @@
 
 `*` -> unusable state
 
-<details>
-<summary>C++</summary>
+### C++
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
@@ -65,10 +64,7 @@
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
-</details>
-
-<details>
-<summary>TypeScript</summary>
+### TypeScript
 
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
@@ -77,16 +73,16 @@
 - [Physics Words](https://github.com/christopher-besch/physics_words)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
-</details>
-
-<details>
-<summary>Python</summary>
+### Python
 
 - `~` [ToddLinux](https://github.com/ToddLinux/ToddLinux)
 - `~` [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
 - [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
 - [Manim CE](https://github.com/ManimCommunity/manim)
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
+- [Project Omega](https://github.com/christopher-besch/project_omega)
+- [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
+- [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
@@ -94,62 +90,37 @@
 - [37th BWINF Round 1](https://github.com/christopher-besch/bwinf_37_round1)
 - [Lofi Girl Downloader](https://github.com/christopher-besch/lofi_girl_downloader)
 
-</details>
-
 <details>
-<summary>Flask (Python, TypeScript, HTML, CSS)</summary>
+<summary>More</summary>
 
-- [Project Omega](https://github.com/christopher-besch/project_omega)
-- [MC Royale Supervisor](https://github.com/christopher-besch/mc_royale_supervisor)
-- [OHG Plan Parser](https://github.com/christopher-besch/ohg_plan_parser)
-
-</details>
-
-<details>
-<summary>Bash</summary>
+### Bash
 
 - [Bash Reference](https://github.com/christopher-besch/bash_reference)
 
-</details>
-
-<details>
-<summary>LaTeX</summary>
+### LaTeX
 
 - [LaTeX Reference](https://github.com/christopher-besch/latex_reference)
 
-</details>
-
-<details>
-<summary>Assembly</summary>
+### Assembly
 
 - [Assembly Reference](https://github.com/christopher-besch/assembly_reference)
 
-</details>
-
-<details>
-<summary>Blender</summary>
+### Blender
 
 - [Models](https://github.com/christopher-besch/blender_models)
 
-</details>
-
-<details>
-<summary>Configs</summary>
+### Configs
 
 - [LunarVim](https://github.com/christopher-besch/lvim_like_me)
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Kitty](https://github.com/christopher-besch/kitty_like_me)
 - [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
 
-</details>
-
-<details>
-<summary>Java</summary>
+### Java
 
 - `~`[Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
 
 </details>
-
 </details>
