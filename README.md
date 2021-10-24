@@ -57,12 +57,12 @@
 <summary>C++</summary>
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
-- [Lynton](https://github.com/christopher-besch/lynton)
-- [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
-- [Cryptography](https://github.com/christopher-besch/cryptography)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
-- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
+- [Lynton](https://github.com/christopher-besch/lynton)
+- [Cryptography](https://github.com/christopher-besch/cryptography)
+- [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
 - [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
+- [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 </details>
@@ -72,8 +72,8 @@
 
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
-- [Who am I](https://github.com/christopher-besch/who_am_i)
 - [Book Page Converter](https://github.com/christopher-besch/book_page_converter)
+- [Who am I](https://github.com/christopher-besch/who_am_i)
 - [Physics Words](https://github.com/christopher-besch/physics_words)
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
@@ -82,10 +82,11 @@
 <details>
 <summary>Python</summary>
 
-- [Manim Reference](https://github.com/christopher-besch/manim_reference)
-- [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
-- `~` [Manim CE](https://github.com/ManimCommunity/manim)
+- `~` [ToddLinux](https://github.com/ToddLinux/ToddLinux)
 - `~` [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
+- [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
+- [Manim CE](https://github.com/ManimCommunity/manim)
+- [Manim Reference](https://github.com/christopher-besch/manim_reference)
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
@@ -135,9 +136,8 @@
 <details>
 <summary>Configs</summary>
 
-- `~` [ToddLinux](https://github.com/ToddLinux/ToddLinux)
-- [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [LunarVim](https://github.com/christopher-besch/lvim_like_me)
+- [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Kitty](https://github.com/christopher-besch/kitty_like_me)
 - [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
 
@@ -146,9 +146,9 @@
 <details>
 <summary>Java</summary>
 
+- `~`[Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
-- `~`[Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
 
 </details>
 
