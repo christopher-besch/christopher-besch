@@ -1,6 +1,6 @@
 ### Hello Smart People, I'm Chris!
 
-## I'm a Hobbyist Software Developer
+## I'm a Software Developer
 
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
