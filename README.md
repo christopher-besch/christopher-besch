@@ -1,4 +1,4 @@
-### Hello Smart People, I'm Chris!
+## Hello Smart People, I'm Chris!
 
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
