@@ -33,7 +33,7 @@
 - <img align="left" width="20px" src="images/manim.svg">Manim CE
 - <img align="left" width="20px" src="images/blender.png">Blender
 - <img align="left" width="20px" src="images/git.png">git (duh)
-- <img align="left" width="20px" src="images/latex.jpg">LaTex
+- <img align="left" width="20px" src="images/latex.jpg">LaTeX
 - <img align="left" width="20px" src="images/sdl.jpeg">SDL2
 - <img align="left" width="20px" src="images/opengl.png">OpenGL
 - <img align="left" width="20px" src="images/gephi.jpg">Gephi
