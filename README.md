@@ -75,7 +75,6 @@
 
 - `~` [ToddLinux](https://github.com/ToddLinux/ToddLinux)
 - `~` [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
-- [Manim Web Presenter](https://github.com/christopher-besch/manim_web_presenter)
 - [Manim CE](https://github.com/ManimCommunity/manim)
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
 - [Project Omega](https://github.com/christopher-besch/project_omega)
