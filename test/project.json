@@ -1,0 +1,373 @@
+[
+    {
+        "sections_len": 3,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Intro",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Introduction_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "test",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            },
+            {
+                "id": 1,
+                "name": "Intro.1",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Introduction_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "test",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 0
+            },
+            {
+                "id": 2,
+                "name": "Intro.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Introduction_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 0,
+                "name": "StateOfNeed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/StateOfNeed_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "test",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            },
+            {
+                "id": 1,
+                "name": "StateOfNeed.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/StateOfNeed_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Preprocessing",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Preprocessing_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            },
+            {
+                "id": 1,
+                "name": "Preprocessing.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Preprocessing_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 5,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Segmentation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Segmentation_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 7
+            },
+            {
+                "id": 1,
+                "name": "Segmentation.2",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Segmentation_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 7
+            },
+            {
+                "id": 2,
+                "name": "Segmentation.3",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Segmentation_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 9.0,
+                "project_name": "test",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 7
+            },
+            {
+                "id": 3,
+                "name": "Segmentation.4",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Segmentation_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "test",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 7
+            },
+            {
+                "id": 4,
+                "name": "Segmentation.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Segmentation_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 7
+            }
+        ]
+    },
+    {
+        "sections_len": 5,
+        "sections": [
+            {
+                "id": 0,
+                "name": "TTA",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/BaggingTta_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "test",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 12
+            },
+            {
+                "id": 1,
+                "name": "TTA.1",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/BaggingTta_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "test",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 12
+            },
+            {
+                "id": 2,
+                "name": "TTA.2",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/BaggingTta_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "test",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 12
+            },
+            {
+                "id": 3,
+                "name": "TTA.3",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/BaggingTta_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 12
+            },
+            {
+                "id": 4,
+                "name": "TTA.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/BaggingTta_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 12
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Postprocessing",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Postprocessing_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            },
+            {
+                "id": 1,
+                "name": "Postprocessing.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/Postprocessing_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Results",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/PreliminaryResults_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "test",
+                "in_project_video": "video_0019.mp4",
+                "in_project_thumbnail": "thumb_0019.jpg",
+                "in_project_id": 19,
+                "parent_id": 19
+            },
+            {
+                "id": 1,
+                "name": "Results.End",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/home/chris/files/python/manim/editor/media/videos/hsf/1080p60/sections/PreliminaryResults_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "test",
+                "in_project_video": "video_0020.mp4",
+                "in_project_thumbnail": "thumb_0020.jpg",
+                "in_project_id": 20,
+                "parent_id": 19
+            }
+        ]
+    }
+]
