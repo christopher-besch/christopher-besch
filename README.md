@@ -115,7 +115,7 @@
 
 ### Java
 
-- `~` [Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
+- [Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
 
