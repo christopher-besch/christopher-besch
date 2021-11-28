@@ -57,7 +57,8 @@
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
 - [Lynton](https://github.com/christopher-besch/lynton)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
-- [39th BWINF Round 2](https://github.com/christopher-besch/bwinf_39_round2)
+- [39th BwInf Round 2](https://github.com/christopher-besch/bwinf_39_round2)
+- [40th BwInf Round 1](https://github.com/yves147/bwinf40)
 - [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
 - `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
@@ -83,8 +84,8 @@
 - [Time Table Planner](https://github.com/christopher-besch/time_table_planner)
 - [Technik^3 Plan](https://github.com/christopher-besch/technik3-plan)
 - [ARG Toolset](https://github.com/christopher-besch/arg_toolset)
-- [39th BWINF Round 1](https://github.com/christopher-besch/bwinf_39_round1)
-- [37th BWINF Round 1](https://github.com/christopher-besch/bwinf_37_round1)
+- [39th BwInf Round 1](https://github.com/christopher-besch/bwinf_39_round1)
+- [37th BwInf Round 1](https://github.com/christopher-besch/bwinf_37_round1)
 - [Lofi Girl Downloader](https://github.com/christopher-besch/lofi_girl_downloader)
 
 <details>
