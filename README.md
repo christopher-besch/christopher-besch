@@ -54,6 +54,7 @@
 ### C++
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
+- `~` [Maki](https://github.com/christopher-besch/maki)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
 - [Lynton](https://github.com/christopher-besch/lynton)
 - [Cryptography](https://github.com/christopher-besch/cryptography)
