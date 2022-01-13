@@ -49,8 +49,6 @@
 
 `~` -> Work in Progress
 
-`*` -> Unusable State
-
 ### C++
 
 - [Neural Network](https://github.com/christopher-besch/neural_network)
@@ -62,12 +60,13 @@
 - [40th BwInf Round 1](https://github.com/yves147/bwinf40)
 - [C++ Go Fast](https://github.com/christopher-besch/cpp_go_fast)
 - [C++ Reference](https://github.com/christopher-besch/cpp_reference)
-- `*` [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
+- [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 ### TypeScript
 
-- `~` [Homepage](https://github.com/christopher-besch/homepage)
+- [Homepage](https://github.com/christopher-besch/homepage)
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
+- `~` [Quote Rater](https://github.com/christopher-besch/quote_rater)
 - [Lake Visualizer](https://github.com/christopher-besch/lake_visualizer)
 - [Book Page Converter](https://github.com/christopher-besch/book_page_converter)
 - [Who am I](https://github.com/christopher-besch/who_am_i)
