@@ -1,4 +1,4 @@
-## Hello Smart People, I'm Chris!
+# Hello Smart People, I'm Chris!
 
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
@@ -7,7 +7,8 @@
 - I always prefer to work in a team rather than on my own.
   I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
-- I'm always looking for cool projects to participate in, so hook me up if you have something in mind.
+
+# [Homepage](https://chris-besch.com)
 
 ## Main Languages
 
@@ -17,28 +18,6 @@
 - <img align="left" width="20px" src="images/c%2B%2B.png">C++
 - <img align="left" width="20px" src="images/ts.png">TypeScript
 - <img align="left" width="20px" src="images/python.png">Python
-
-</details>
-
-## Main Tools
-
-<details>
-<summary>Click to expand.</summary>
-
-- <img align="left" width="20px" src="images/neovim.png">Neovim
-- <img align="left" width="20px" src="images/bash.png">Bash
-- <img align="left" width="20px" src="images/cmake.png">CMake
-- <img align="left" width="20px" src="images/premake.png">Premake
-- <img align="left" width="20px" src="images/gnu.png">gcc/make/gdb/...
-- <img align="left" width="20px" src="images/manim.svg">Manim CE
-- <img align="left" width="20px" src="images/blender.png">Blender
-- <img align="left" width="20px" src="images/git.png">git (duh)
-- <img align="left" width="20px" src="images/latex.jpg">LaTeX
-- <img align="left" width="20px" src="images/sdl.jpeg">SDL2
-- <img align="left" width="20px" src="images/opengl.png">OpenGL
-- <img align="left" width="20px" src="images/gephi.jpg">Gephi
-- <img align="left" width="20px" src="images/webpack.png">webpack
-- <img align="left" width="20px" src="images/flask.png">Flask
 
 </details>
 
