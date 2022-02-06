@@ -1,5 +1,4 @@
 # Hello Smart People, I'm Chris!
-
 - I consider myself a problem solver.
   Working on problems we set ourself for fun is really enjoyable.
   But solving real people's problems and making their lives a little better is the biggest motivator I can imagine.
@@ -8,10 +7,10 @@
   I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
 
-# [Homepage](https://chris-besch.com)
+# [Homepage](https://chris-besch.com)—Articles
+- [Maki, Atoms and Time Travel](https://chris-besch.com/articles/maki_atoms_and_time_travel)
 
 ## Main Languages
-
 <details>
 <summary>Click to expand.</summary>
 
@@ -22,14 +21,12 @@
 </details>
 
 ## Public Projects
-
 <details>
 <summary>Click to expand.</summary>
 
 `~` -> Work in Progress
 
 ### C++
-
 - [Neural Network](https://github.com/christopher-besch/neural_network)
 - `~` [Maki](https://github.com/christopher-besch/maki)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
@@ -42,7 +39,6 @@
 - [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 ### TypeScript
-
 - [Homepage](https://github.com/christopher-besch/homepage)
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Quote Rater](https://github.com/christopher-besch/quote_rater)
@@ -53,7 +49,6 @@
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
 ### Python
-
 - `~` [ToddLinux](https://github.com/ToddLinux/ToddLinux)
 - [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
 - [Manim CE](https://github.com/ManimCommunity/manim)
@@ -72,30 +67,24 @@
 <summary>More</summary>
 
 ### Bash
-
 - [Bash Reference](https://github.com/christopher-besch/bash_reference)
 
 ### LaTeX
-
 - [LaTeX Reference](https://github.com/christopher-besch/latex_reference)
 
 ### Assembly
-
 - [Assembly Reference](https://github.com/christopher-besch/assembly_reference)
 
 ### Blender
-
 - [Models](https://github.com/christopher-besch/blender_models)
 
 ### Configs
-
 - [LunarVim](https://github.com/christopher-besch/lvim_like_me)
 - [Neovim](https://github.com/christopher-besch/nvim_like_me)
 - [Kitty](https://github.com/christopher-besch/kitty_like_me)
 - [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
 
 ### Java
-
 - [Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
 - [Encryption](https://github.com/christopher-besch/java_encryption)
 - [Sorting Algorithms](https://github.com/christopher-besch/sorting_algorithms)
