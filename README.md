@@ -78,9 +78,7 @@
 ### Blender
 - [Models](https://github.com/christopher-besch/blender_models)
 
-### Configs
-- [LunarVim](https://github.com/christopher-besch/lvim_like_me)
-- [Configs](https://github.com/christopher-besch/configs)
+### [Configs](https://github.com/christopher-besch/configs)
 
 ### Java
 - [Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
