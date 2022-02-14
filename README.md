@@ -80,9 +80,7 @@
 
 ### Configs
 - [LunarVim](https://github.com/christopher-besch/lvim_like_me)
-- [Neovim](https://github.com/christopher-besch/nvim_like_me)
-- [Kitty](https://github.com/christopher-besch/kitty_like_me)
-- [Miscellaneous](https://github.com/christopher-besch/miscellaneous_configs)
+- [Configs](https://github.com/christopher-besch/configs)
 
 ### Java
 - [Social Blog](https://github.com/pascal-kuschkowitz/Inf-Proj-ProductDev)
