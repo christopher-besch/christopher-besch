@@ -10,16 +10,6 @@
 # [Homepage](https://chris-besch.com)—Articles
 - [Maki, Atoms and Time Travel](https://chris-besch.com/articles/maki_atoms_and_time_travel)
 
-## Main Languages
-<details>
-<summary>Click to expand.</summary>
-
-- <img align="left" width="20px" src="images/c%2B%2B.png">C++
-- <img align="left" width="20px" src="images/ts.png">TypeScript
-- <img align="left" width="20px" src="images/python.png">Python
-
-</details>
-
 ## Public Projects
 <details>
 <summary>Click to expand.</summary>
