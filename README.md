@@ -8,6 +8,7 @@
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
 
 # [Homepage](https://chris-besch.com)—Articles
+- [Installing Gentoo To My Liking](https://chris-besch.com/articles/installing_gentoo)
 - [Maki, Atoms and Time Travel](https://chris-besch.com/articles/maki_atoms_and_time_travel)
 
 ## Public Projects
