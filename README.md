@@ -42,8 +42,10 @@
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
 ### Python
-- [ToddLinux](https://github.com/ToddLinux/ToddLinux)
 - [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
+- [ToddLinux](https://github.com/ToddLinux/ToddLinux)
+<!-- not on homepage -->
+- [Jupyter Splitview](https://github.com/kolibril13/jupyter-splitview)
 - [Manim CE](https://github.com/ManimCommunity/manim)
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
 - [Project Omega](https://github.com/christopher-besch/project_omega)
