@@ -42,9 +42,9 @@
 - [TypeScript Reference](https://github.com/christopher-besch/typescript_reference)
 
 ### Python
+<!-- not on homepage: jupyter-splitview -->
 - [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
 - [ToddLinux](https://github.com/ToddLinux/ToddLinux)
-<!-- not on homepage -->
 - [Jupyter Splitview](https://github.com/kolibril13/jupyter-splitview)
 - [Manim CE](https://github.com/ManimCommunity/manim)
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
