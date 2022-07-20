@@ -31,6 +31,7 @@
 - [Lynton Legacy](https://github.com/christopher-besch/lynton_legacy)
 
 ### TypeScript
+- [compare_view](https://github.com/Octoframes/compare_view)
 - [Homepage](https://github.com/christopher-besch/homepage)
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Quote Rater](https://github.com/christopher-besch/quote_rater)
@@ -45,7 +46,7 @@
 ### Python
 - [Manim Editor](https://github.com/ManimEditorProject/manim_editor)
 - [ToddLinux](https://github.com/ToddLinux/ToddLinux)
-- [Jupyter Splitview](https://github.com/kolibril13/jupyter-splitview)
+- [Jupyter compare_view](https://github.com/Octoframes/jupyter_compare_view)
 - [Manim CE](https://github.com/ManimCommunity/manim)
 - [Manim Reference](https://github.com/christopher-besch/manim_reference)
 - [Project Omega](https://github.com/christopher-besch/project_omega)
