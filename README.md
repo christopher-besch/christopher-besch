@@ -20,6 +20,7 @@
 
 ### Docker
 - [docker_cron](https://github.com/christopher-besch/docker_cron)
+- [docker_git_backup](https://github.com/christopher-besch/docker_git_backup)
 - [docker_borg_backup](https://github.com/christopher-besch/docker_borg_backup)
 - [docker_borg_remote](https://github.com/christopher-besch/docker_borg_remote)
 - [Docker Setups](https://github.com/christopher-besch/docker_setups)
