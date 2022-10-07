@@ -7,10 +7,7 @@
   I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
 
-# [chris-besch.com](https://chris-besch.com)—Articles
-- [reveal.js your Presentation](https://chris-besch.com/articles/revealjs)
-- [Installing Gentoo To My Liking](https://chris-besch.com/articles/installing_gentoo)
-- [Maki, Atoms and Time Travel](https://chris-besch.com/articles/maki_atoms_and_time_travel)
+# Check out my Articles at [chris-besch.com](https://chris-besch.com)
 
 ## Public Projects
 <details>
