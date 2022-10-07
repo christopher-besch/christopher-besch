@@ -6,8 +6,7 @@
 - I always prefer to work in a team rather than on my own.
   I like people—people are great!
 - Linux vs Windows? Linux For The Win! But Windows users shouldn't be joked about; they have enough problems already😉
-
-# Check out my Articles at [chris-besch.com](https://chris-besch.com)
+- Check out my articles on [chris-besch.com](https://chris-besch.com).
 
 ## Public Projects
 <details>
