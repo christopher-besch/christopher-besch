@@ -36,6 +36,7 @@
 ### TypeScript
 - [compare_view](https://github.com/Octoframes/compare_view)
 - [Homepage](https://github.com/christopher-besch/homepage)
+- [Light Logo](https://github.com/christopher-besch/light_logo)
 - [Big Blue Button Autostatus](https://github.com/christopher-besch/bbb_autostatus)
 - [Quote Rater](https://github.com/christopher-besch/quote_rater)
 - [Project Orange](https://github.com/Science-Camp-Softwareentwicklung-02-22/TeamOrange)
