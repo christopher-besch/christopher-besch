@@ -22,6 +22,7 @@
 - [Docker Setups](https://github.com/christopher-besch/docker_setups)
 
 ### C++
+- [Visualizations](https://github.com/christopher-besch/visualizations)
 - [Neural Network](https://github.com/christopher-besch/neural_network)
 - [Maki](https://github.com/christopher-besch/maki)
 - [Ray Tracer](https://github.com/christopher-besch/ray_tracer)
